@@ -4,6 +4,10 @@ phone selector hint functionality for Android
 
 
 
+![Alt Text](assets/output1.gif)
+
+
+
 
 # Example 
 
