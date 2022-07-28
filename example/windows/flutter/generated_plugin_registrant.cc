@@ -6,9 +6,6 @@
 
 #include "generated_plugin_registrant.h"
 
-#include <phoneselectorhint/phoneselectorhint_plugin.h>
 
 void RegisterPlugins(flutter::PluginRegistry* registry) {
-  PhoneselectorhintPluginRegisterWithRegistrar(
-      registry->GetRegistrarForPlugin("PhoneselectorhintPlugin"));
 }

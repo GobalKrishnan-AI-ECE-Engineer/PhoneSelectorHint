@@ -1,9 +1,5 @@
-import 'package:flutter/services.dart';
-import 'package:flutter_test/flutter_test.dart';
-import 'package:phoneselectorhint/phoneselectorhint.dart';
-
 void main() {
-  const MethodChannel channel = MethodChannel('phoneselectorhint');
+  /*const MethodChannel channel = MethodChannel('phoneselectorhint');
 
   TestWidgetsFlutterBinding.ensureInitialized();
 
@@ -19,5 +15,5 @@ void main() {
 
   test('getPlatformVersion', () async {
     expect(await Phoneselectorhint.platformVersion, '42');
-  });
+  });*/
 }

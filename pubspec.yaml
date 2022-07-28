@@ -32,13 +32,13 @@ flutter:
       android:
         package: com.gkai.phoneselectorhint
         pluginClass: PhoneselectorhintPlugin
-      ios:
-        pluginClass: PhoneselectorhintPlugin
-      windows:
-        pluginClass: PhoneselectorhintPlugin
-      web:
-        pluginClass: PhoneselectorhintWeb
-        fileName: phoneselectorhint_web.dart
+      #ios:
+       # pluginClass: PhoneselectorhintPlugin
+      #windows:
+       # pluginClass: PhoneselectorhintPlugin
+      #web:
+       # pluginClass: PhoneselectorhintWeb
+        #fileName: phoneselectorhint_web.dart
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
